@@ -13,7 +13,7 @@ class Showcase extends StatefulWidget {
 
 class _Showcase extends State<Showcase> {
 // class Showcase extends StatelessWidget {
-  @override
+
   Widget build(BuildContext context) {
     print(Global.selectedCategoryIndex);
     return Padding(
